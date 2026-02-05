@@ -1,0 +1,36 @@
+# Article Outline Skill
+
+## Purpose
+
+Create a clear and logical outline for an article
+before writing any full paragraphs.
+
+This skill is meant to ensure that content
+is structured before execution.
+
+---
+
+## When to Use
+
+Use this skill when:
+- The user asks to write an article or guide
+- The topic is broad or complex
+- Structure matters more than speed
+
+---
+
+## How to Execute
+
+1. Clarify the goal of the article
+2. Identify the intended audience (use profiles if available)
+3. Propose a logical sequence of sections
+4. Keep section titles clear and descriptive
+5. Avoid writing full paragraphs unless explicitly requested
+
+---
+
+## Output Format
+
+- Use a numbered or hierarchical list
+- Include short descriptions per section
+- Keep the outline concise and easy to revise
